@@ -7,11 +7,11 @@ from config import LOG_GROUP_ID
 from IroX import app  
 
 photo = [
-    "https://telegra.ph/file/52f7f43d1657f63bfddd7.jpg",
-    "https://telegra.ph/file/17b68f97a97d57c426cd0.jpg",
-    "https://telegra.ph/file/364d0f7a474ae0427eeef.jpg",
-    "https://telegra.ph/file/21fc071d44e1a449e8443.jpg",
-    "https://telegra.ph/file/4614e9432c2fb7095a871.jpg",
+    "https://telegra.ph/file/ad2c0fc3a964aaa71ba57.jpg",
+    "https://telegra.ph/file/b83bd75476aa36abe69c1.jpg",
+    "https://telegra.ph/file/d5ca67f437e3aa35b200b.jpg",
+    "https://telegra.ph/file/74c1f331c73cfa5e43ade.jpg",
+    "https://telegra.ph/file/44a20463ae82139e93dd0.jpg",
 ]
 
 
